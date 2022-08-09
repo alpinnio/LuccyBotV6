@@ -1,6 +1,6 @@
 
 {
-botname = "DEFFBOTZ"
+botname = "LUCCYBOTZ"
 
 
 exports.allmenu = (prefix) => {
